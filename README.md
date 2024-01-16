@@ -98,7 +98,7 @@ Collection Mint Id:
 
 Token Repo Github link
 
-[Token](https://github.com/ethParth/Sol_Beg_Mod_2_Token)
+[Token](https://github.com/ethParth/Sol_Beg_Mod_3_Token)
 
 ### Author
 
