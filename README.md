@@ -80,9 +80,9 @@ sugar mint
 
 This is the link for Solscan, where you can find all the addresses:
 
-```
-https://explorer.solana.com/?cluster=devnet
-```
+
+[SolScan](https://explorer.solana.com/?cluster=devnet)
+
 
 The Candy Machine ID is:
 
@@ -95,6 +95,10 @@ Collection Mint Id:
 ```
 7wD2iZLsGkwd9gp6PJG2PXE1fyiQBLyZLzhFVP2HPVZ2
 ```
+
+Token Repo Github link
+
+[Token](https://github.com/ethParth/Sol_Beg_Mod_2_Token)
 
 ### Author
 
