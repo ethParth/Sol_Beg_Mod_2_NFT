@@ -14,12 +14,12 @@ To interact with the project, you can start on a gitpod, by clicking on this lin
 
 or by cloning this repo and installing 
 
-[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git): to clone the starter project
-[node](https://nodejs.org/en/download/): Javascript runtime environment
-[yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable): package manager for installing the required dependencies
-[ts-node](https://www.npmjs.com/package/ts-node#installation): Typescript execution environment
-[solana cli[(https://docs.solana.com/cli/install-solana-cli-tools): to interact with the Solana Blockchain
-[sugar cli](https://docs.metaplex.com/developer-tools/sugar/overview/installation#recommended-installation-method): to setup and operate our Candy Machine
+[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git): to clone the starter project;
+[node](https://nodejs.org/en/download/): Javascript runtime environment;
+[yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable): package manager for installing the required dependencies;
+[ts-node](https://www.npmjs.com/package/ts-node#installation): Typescript execution environment;
+[solana cli[(https://docs.solana.com/cli/install-solana-cli-tools): to interact with the Solana Blockchain;
+[sugar cli](https://docs.metaplex.com/developer-tools/sugar/overview/installation#recommended-installation-method): to setup and operate our Candy Machine;
 
 and then running the following commands
 
